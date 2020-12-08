@@ -1,3 +1,3 @@
-# Wiki
+# Compiladores
 
-Wiki com dúvidas e material sobre a disciplina de Compiladores 1.
+Sobre a matéria. Pode ser o plano de ensino
