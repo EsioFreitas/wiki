@@ -1,7 +1,7 @@
 <img src="assets/img/logoUnB.png" alt="Logo da UNB" />
 
 - [**Disciplina**](/)
-- [**Conteúdo**](_docs/classes/home.md)
+- **Conteúdo**
   - [1. Expressões Regulares](_docs/classes/01.expressoes_regulares/class.md)
   - [2. Gramáticas livres de contexto](_docs/classes/02.gramaticas_livres/class.md)
   - [3. Autômatos](_docs/classes/03.Automatos/class.md)
